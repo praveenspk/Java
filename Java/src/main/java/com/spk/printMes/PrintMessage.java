@@ -10,8 +10,8 @@ public class PrintMessage {
 		String name = "Praveen";
 		PrintStream myout = new PrintStream(new FileOutputStream(FileDescriptor.out));
 		myout.print("i love Java" + " ");
-		System.out.format("%s", "James" + name);
-		System.out.println(" " + "James");
+		System.out.format("%s", "Saggam" + name);
+		System.out.println(" " + "Saggam");
 		System.out.print(name);
 		System.err.print("This is custom error message");
 
