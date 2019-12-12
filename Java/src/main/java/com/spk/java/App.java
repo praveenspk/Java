@@ -1,4 +1,4 @@
-package com.spk.Java;
+package com.spk.java;
 
 /**
  * Hello world!
