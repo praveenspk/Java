@@ -11,7 +11,10 @@ package com.spk.regex;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * @author Praveen
+ *
+ */
 class StringPattern {
 	public String makePattern(String input) {
 		String wordMapper = "";

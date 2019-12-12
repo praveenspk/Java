@@ -1,5 +1,8 @@
 package com.spk.patterns;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Pyramid {
 
 	public static void main(String[] args) {

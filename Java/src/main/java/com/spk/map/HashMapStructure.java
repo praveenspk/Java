@@ -2,7 +2,10 @@ package com.spk.map;
 
 import java.util.HashMap;
 import java.util.Iterator;
-
+/**
+ * @author Praveen
+ *
+ */
 public class HashMapStructure  {
 	/**
 	 * @author s84119411

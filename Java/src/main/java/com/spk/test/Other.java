@@ -1,5 +1,8 @@
 package com.spk.test;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Other {
 	public static void main(String[] args) {
 		String[] result = { "Hello", "Hai" };

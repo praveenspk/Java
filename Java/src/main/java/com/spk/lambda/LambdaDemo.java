@@ -1,5 +1,8 @@
 package com.spk.lambda;
-
+/**
+ * @author Praveen
+ *
+ */
 public class LambdaDemo {
 	
 	public static void main(String[] args) {

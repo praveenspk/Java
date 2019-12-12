@@ -1,7 +1,10 @@
 package com.spk.javaMaster;
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Sequence_Equation {
 	
 	 static int[] permutationEquation(int[] p) {

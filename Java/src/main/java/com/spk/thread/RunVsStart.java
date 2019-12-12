@@ -2,6 +2,7 @@ package com.spk.thread;
 /*
  * package com.huawei.thread;
  * 
+ * 
  * class MyThread extends Thread {
  * 
  * @Override public void run() { System.out.println("I am executed by : " +

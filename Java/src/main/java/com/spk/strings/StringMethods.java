@@ -2,7 +2,10 @@ package com.spk.strings;
 
 import java.io.BufferedReader;
 import java.io.IOException;
-
+/**
+ * @author Praveen
+ *
+ */
 public class StringMethods {
 
 	public static boolean isEmpty(final CharSequence cs) {

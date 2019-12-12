@@ -1,5 +1,8 @@
 package com.spk.exception;
-
+/**
+ * @author Praveen
+ *
+ */
 public class TryWithoutCatch {
 
 	public static void main(String[] args) {

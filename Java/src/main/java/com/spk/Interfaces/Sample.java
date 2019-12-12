@@ -1,5 +1,8 @@
 package com.spk.Interfaces;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Sample implements Java8InterfaceDemo {
 
 	public static void main(String[] args) {

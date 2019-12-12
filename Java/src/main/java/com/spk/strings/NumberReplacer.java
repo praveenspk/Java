@@ -1,6 +1,9 @@
 package com.spk.strings;
 
-
+/**
+ * @author Praveen
+ *
+ */
 public class NumberReplacer {
 
 	public static void print(int startIndex, int endIndex) {

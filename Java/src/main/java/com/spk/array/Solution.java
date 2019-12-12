@@ -2,6 +2,10 @@ package com.spk.array;
 
 import java.util.Arrays;
 
+/**
+ * @author Praveen
+ *
+ */
 public class Solution {
 
 	static {

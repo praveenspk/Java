@@ -2,7 +2,10 @@ package com.spk.Collections.aggregate;
 
 import java.util.HashSet;
 import java.util.Set;
-
+/**
+ * @author Praveen
+ *
+ */
 public class FindDuplicate {
     public static void main(String[] args) {
         Set<String> uniques = new HashSet<String>();

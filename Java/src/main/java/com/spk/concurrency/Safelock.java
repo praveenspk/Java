@@ -3,7 +3,10 @@ package com.spk.concurrency;
 import java.util.Random;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Safelock {
 	static class Friend {
 		private final String name;

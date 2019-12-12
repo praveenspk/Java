@@ -2,7 +2,10 @@ package com.spk.date;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
+/**
+ * @author Praveen
+ *
+ */
 public class StringDateTest {
 
     public static void main(String[] argv) {

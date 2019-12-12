@@ -2,6 +2,10 @@ package com.spk.array;
 
 import java.util.*;
 
+/**
+ * @author Praveen
+ *
+ */
 public class Main {
 	public static void main(String args[]) {
 		Scanner s = new Scanner(System.in);

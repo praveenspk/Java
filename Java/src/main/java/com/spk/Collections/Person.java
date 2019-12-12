@@ -1,5 +1,8 @@
 package com.spk.Collections;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Person {
 	private String name;
 	private String people;

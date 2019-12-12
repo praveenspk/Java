@@ -1,7 +1,10 @@
 package com.spk.javaMaster;
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 class Solution {
 	public static void main(String[] args) {
 		byte testCases;

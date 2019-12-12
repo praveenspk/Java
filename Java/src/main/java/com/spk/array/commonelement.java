@@ -2,6 +2,10 @@ package com.spk.array;
 
 import java.util.ArrayList;
 
+/**
+ * @author Praveen
+ *
+ */
 public class commonelement {
 
 	static void getCommonEle() {

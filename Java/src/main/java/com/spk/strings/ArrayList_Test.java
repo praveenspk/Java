@@ -2,7 +2,10 @@ package com.spk.strings;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
+/**
+ * @author Praveen
+ *
+ */
 public class ArrayList_Test {
 	public static void main(String[] args) {
 		

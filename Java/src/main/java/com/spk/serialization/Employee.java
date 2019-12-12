@@ -1,7 +1,10 @@
 package com.spk.serialization;
 
 import java.io.Serializable;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Employee implements Serializable {
 
 	private String empId;

@@ -1,7 +1,10 @@
 package com.spk.strings;
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class SortString {
 
 	static String[] sortString(String[] str, int count) {

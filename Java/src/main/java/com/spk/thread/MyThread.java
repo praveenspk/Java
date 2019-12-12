@@ -1,5 +1,8 @@
 package com.spk.thread;
-
+/**
+ * @author Praveen
+ *
+ */
 class MyThread implements Runnable {
 	String name;
 	Thread t;

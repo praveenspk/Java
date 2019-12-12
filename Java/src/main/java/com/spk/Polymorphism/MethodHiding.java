@@ -1,6 +1,9 @@
 
 package com.spk.Polymorphism;
-
+/**
+ * @author Praveen
+ *
+ */
 class parent {
 
 	public void property() {

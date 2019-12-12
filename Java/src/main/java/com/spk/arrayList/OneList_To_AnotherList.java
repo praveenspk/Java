@@ -2,7 +2,10 @@ package com.spk.arrayList;
 
 import java.util.ArrayList;
 import java.util.Collections;
-
+/**
+ * @author Praveen
+ *
+ */
 public class OneList_To_AnotherList {
 	public static void main(String[] args) {
 		ArrayList<Integer> listOne = new ArrayList<>();

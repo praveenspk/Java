@@ -2,7 +2,10 @@ package com.spk.map;
 
 import java.util.SortedMap;
 import java.util.TreeMap;
-
+/**
+ * @author Praveen
+ *
+ */
 public class TreeMapExample {
 	public static void main(String[] args) {
 		// Creating a TreeMap

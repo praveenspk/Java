@@ -3,6 +3,10 @@ package com.spk.arrayList;
 import java.util.ArrayList;
 import java.util.Collection;
 
+/**
+ * @author Praveen
+ *
+ */
 public class CollectionInterfacee {
 
 	public static void main(String[] args) {

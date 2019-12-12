@@ -1,7 +1,10 @@
 package com.spk.utility;
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Password_Checking {
 
 	public static boolean is_Valid_Password(String password) {

@@ -1,5 +1,8 @@
 package com.spk.javaMaster;
-
+/**
+ * @author Praveen
+ *
+ */
 public class LongestPalindromicSubstring {
 
 	public static void main(String[] args) {

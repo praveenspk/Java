@@ -1,5 +1,8 @@
 package com.spk.inheritance;
-
+/**
+ * @author Praveen
+ *
+ */
 class Alpha {
 	String getType() {
 		return "Alpha";

@@ -5,7 +5,10 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.InputStream;
-
+/**
+ * @author Praveen
+ *
+ */
 public class File_Append {
 	public static final String file = "C:/Users/s84119411/Desktop/ToDo.docx";
 	static void setTextToFile() {

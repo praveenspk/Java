@@ -1,5 +1,8 @@
 package com.spk.jp;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Palindrom {
 
 	public static void palindrom(int num) {

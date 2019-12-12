@@ -1,7 +1,10 @@
 package com.spk.singleton;
 
 import java.io.Serializable;
-
+/**
+ * @author Praveen
+ *
+ */
 public class SerializedSingleton implements Serializable {
 
 	private static final long serialVersionUID = -7604766932017737115L;

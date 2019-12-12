@@ -1,5 +1,8 @@
 package com.spk.strings;
-
+/**
+ * @author Praveen
+ *
+ */
 public class String_Methods {
 	public static void main(String[] args) {
 

@@ -1,5 +1,8 @@
 package com.spk.inheritance;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Sample {
 
 	public static void main(String[] args) {

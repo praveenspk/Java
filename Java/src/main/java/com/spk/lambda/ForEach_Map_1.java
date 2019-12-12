@@ -2,7 +2,10 @@ package com.spk.lambda;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * @author Praveen
+ *
+ */
 public class ForEach_Map_1 {
 
 	public static void main(String[] args) {

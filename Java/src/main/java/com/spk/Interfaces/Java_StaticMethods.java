@@ -1,5 +1,8 @@
 package com.spk.Interfaces;
-
+/**
+ * @author Praveen
+ *
+ */
 public interface Java_StaticMethods {
 
 	String JAVA7_CONNSTANT="Java7";

@@ -7,7 +7,10 @@ import java.text.*;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
-
+/**
+ * @author Praveen
+ *
+ */
 public class MagicSquare {
 
 	// Complete the formingMagicSquare function below.

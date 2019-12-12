@@ -3,7 +3,10 @@ package com.spk.exception;
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
-
+/**
+ * @author Praveen
+ *
+ */
 class MyException extends Exception {
 	/**
 	 * 

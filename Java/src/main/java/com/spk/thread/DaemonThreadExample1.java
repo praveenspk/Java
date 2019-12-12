@@ -1,5 +1,8 @@
 package com.spk.thread;
-
+/**
+ * @author Praveen
+ *
+ */
 public class DaemonThreadExample1 extends Thread{
 
 	   public void run(){  

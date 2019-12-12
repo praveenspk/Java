@@ -3,7 +3,10 @@ package com.spk.arrayList;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
-
+/**
+ * @author Praveen
+ *
+ */
 public class SearchList {
 
 	

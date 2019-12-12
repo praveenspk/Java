@@ -2,7 +2,10 @@ package com.spk.regex;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Patterns {
 
 	public static void main(String[] args) {

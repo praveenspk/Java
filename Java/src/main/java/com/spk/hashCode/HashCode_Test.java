@@ -1,5 +1,8 @@
 package com.spk.hashCode;
-
+/**
+ * @author Praveen
+ *
+ */
 class Student {
 
 	@Override

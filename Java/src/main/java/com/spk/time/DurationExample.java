@@ -4,7 +4,10 @@ import java.time.Duration;
 import java.time.LocalDateTime;
 import java.time.Month;
 import java.time.temporal.ChronoUnit;
-
+/**
+ * @author Praveen
+ *
+ */
 public class DurationExample {
 
     public static void main(String[] args) {

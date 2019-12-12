@@ -5,6 +5,10 @@ import java.io.PrintWriter;
 import java.lang.Thread.State;
 
 //Class to demonstrate the Thread Lifecycle
+/**
+ * @author Praveen
+ *
+ */
 public class Multiplier implements Runnable {
 
 	private int number;

@@ -2,7 +2,10 @@ package com.spk.test;
 
 import java.net.URL;
 import java.net.URLConnection;
-
+/**
+ * @author Praveen
+ *
+ */
 public class CheckInternetConnection {
 
 	public static void main(String[] args) {

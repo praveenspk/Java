@@ -3,7 +3,10 @@ package com.spk.test;
 import java.net.NetworkInterface;
 import java.net.SocketException;
 import java.util.Enumeration;
-
+/**
+ * @author Praveen
+ *
+ */
 public class CheckInternetConnection_Test {
 
 	public static void main(String[] args) {

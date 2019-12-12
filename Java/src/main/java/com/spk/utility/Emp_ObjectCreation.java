@@ -11,7 +11,10 @@ import java.lang.reflect.Constructor;
 	3.Using newInstance() method of Constructor class : } �� constructor gets called
 	4.Using clone() method : } �� no constructor call
 	5.Using deserialization : } �� no constructor call*/
-
+/**
+ * @author Praveen
+ *
+ */
 public class Emp_ObjectCreation {
 	public static void main(String... args) throws Exception {
 

@@ -1,7 +1,10 @@
 package com.spk.strings;
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class ReverseString {
 
 	static String reverseString(StringBuffer sb) {

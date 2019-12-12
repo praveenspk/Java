@@ -13,7 +13,10 @@ package com.spk.utility;
 jvm loads class
 executes static blocks
 looks for main method and invokes it*/
-
+/**
+ * @author Praveen
+ *
+ */
 public class WithoutMain {
 
 	static {

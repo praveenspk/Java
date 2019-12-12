@@ -1,5 +1,8 @@
 package com.spk.strings;
-
+/**
+ * @author Praveen
+ *
+ */
 public class ArrayToString {
 
 	public static void main(String[] args) {

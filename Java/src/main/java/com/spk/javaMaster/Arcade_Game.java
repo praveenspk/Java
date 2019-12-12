@@ -2,6 +2,10 @@ package com.spk.javaMaster;
 
 import java.io.*;
 
+/**
+ * @author Praveen
+ *
+ */
 public class Arcade_Game {
 
 	// Complete the climbingLeaderboard function below.

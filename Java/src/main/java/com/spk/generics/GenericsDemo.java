@@ -2,7 +2,10 @@ package com.spk.generics;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @author Praveen
+ *
+ */
 public class GenericsDemo {
 	public static void main(String[] args) {
 		List list=new ArrayList();

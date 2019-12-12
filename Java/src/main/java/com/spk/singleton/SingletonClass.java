@@ -7,6 +7,10 @@ package com.spk.singleton;
  * If All Constant methods is there in our class we can use private constructor.
  * If all methods are static then we can use private constructor.
 */
+/**
+ * @author Praveen
+ *
+ */
 public class SingletonClass {
 
 	private static SingletonClass object;

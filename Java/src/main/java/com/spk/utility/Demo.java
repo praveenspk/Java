@@ -1,7 +1,10 @@
 package com.spk.utility;
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Demo {
 	String accNo, name, fatherName, motherName;
 	int age;

@@ -1,7 +1,10 @@
 package com.spk.javaMaster;
 
 import java.security.MessageDigest;
-
+/**
+ * @author Praveen
+ *
+ */
 public class EncryptionTest {
 
 	static void get(String message) {

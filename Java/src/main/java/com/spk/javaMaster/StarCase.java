@@ -1,5 +1,8 @@
 package com.spk.javaMaster;
-
+/**
+ * @author Praveen
+ *
+ */
 public class StarCase {
 
 	static void pattern(int n) {

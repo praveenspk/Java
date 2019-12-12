@@ -1,7 +1,10 @@
 package com.spk.immutable;
 
 import java.sql.Date;
-
+/**
+ * @author Praveen
+ *
+ */
 public final class ImmutableClass {
 
 	/**

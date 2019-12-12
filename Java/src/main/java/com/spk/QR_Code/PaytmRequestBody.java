@@ -1,5 +1,8 @@
 package com.spk.QR_Code;
-
+/**
+ * @author Praveen
+ *
+ */
 public class PaytmRequestBody {
 
 	private String userName;

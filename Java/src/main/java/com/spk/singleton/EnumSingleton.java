@@ -1,5 +1,8 @@
 package com.spk.singleton;
-
+/**
+ * @author Praveen
+ *
+ */
 public enum EnumSingleton {
 
 	INSTANCE;

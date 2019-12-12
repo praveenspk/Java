@@ -1,7 +1,10 @@
 package com.spk.jp;
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class ReverseNumber {
 
 	public static void reverseNumber(int num) {

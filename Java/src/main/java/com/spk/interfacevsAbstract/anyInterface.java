@@ -1,5 +1,8 @@
 package com.spk.interfacevsAbstract;
-
+/**
+ * @author Praveen
+ *
+ */
 interface anyInterface
 {
     int i = 10;            //By default, interface fields are public, static and final

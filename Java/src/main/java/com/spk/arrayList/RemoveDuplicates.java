@@ -1,7 +1,10 @@
 package com.spk.arrayList;
 
 import java.util.ArrayList;
-
+/**
+ * @author Praveen
+ *
+ */
 public class RemoveDuplicates {
 	public static void main(String[] args) {
 

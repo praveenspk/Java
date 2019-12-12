@@ -1,5 +1,8 @@
 package com.spk.thread;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Thread_Demo {
 
 	public static void odd() {

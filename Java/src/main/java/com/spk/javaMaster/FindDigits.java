@@ -2,6 +2,10 @@ package com.spk.javaMaster;
 
 import java.util.Scanner;
 
+/**
+ * @author Praveen
+ *
+ */
 public class FindDigits {
 	static int findDigits(int n) {
 		int result = 0;

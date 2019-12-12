@@ -7,7 +7,10 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Deserialization {
 
 	private void readEmpObject() throws IOException, FileNotFoundException, ClassNotFoundException {

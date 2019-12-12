@@ -3,7 +3,10 @@ package com.spk.concurrency;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
-
+/**
+ * @author Praveen
+ *
+ */
 public class CustomThreadPoolExecutor extends ThreadPoolExecutor {
 	public CustomThreadPoolExecutor(int corePoolSize, int maximumPoolSize, long keepAliveTime, TimeUnit unit,
 			BlockingQueue<Runnable> workQueue) {

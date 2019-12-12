@@ -1,7 +1,10 @@
 package com.spk.utility;
 
 import java.io.Serializable;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Employee implements Serializable, Cloneable {
 	private static final long serialVersionUID = 1L;
 	private String name;

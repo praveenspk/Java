@@ -1,7 +1,10 @@
 package com.spk.strings;
 
 import java.util.Arrays;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Sample {
 
 	public static void main(String[] args) {

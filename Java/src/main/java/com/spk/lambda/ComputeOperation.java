@@ -1,5 +1,8 @@
 package com.spk.lambda;
-
+/**
+ * @author Praveen
+ *
+ */
 public class ComputeOperation {
 	
 	public ComputeOperation(int a) {

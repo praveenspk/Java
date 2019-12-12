@@ -4,6 +4,10 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * @author Praveen
+ *
+ */
 public class RemoveDuplicateArray {
 
 	static void distinctArray(Integer[] numbers) {

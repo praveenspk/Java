@@ -2,6 +2,10 @@ package com.spk.arrayList;
 
 import java.util.HashSet;
 
+/**
+ * @author Praveen
+ *
+ */
 public class Group extends HashSet<Persons>{
 
 	public static void main(String[] args) {

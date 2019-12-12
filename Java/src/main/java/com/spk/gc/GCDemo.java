@@ -1,11 +1,10 @@
 package com.spk.gc;
-
+/**
+ * @author Praveen
+ *
+ */
 public class GCDemo {
-	/**
-	 * Finalize() method in java
-	 * 
-	 * @author www.instanceofjava.com
-	 */
+	
 	@Override
 	protected void finalize() throws Throwable {
 		try {

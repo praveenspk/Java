@@ -2,7 +2,10 @@ package com.spk.utility;
 
 import java.text.NumberFormat;
 import java.util.Locale;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Currency_Test {
 	static void getCurrencyByCountry(double payment) {
 		

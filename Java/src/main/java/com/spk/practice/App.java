@@ -1,7 +1,7 @@
 package com.spk.practice;
 
 /**
- * Hello world!
+ * @author Praveen
  *
  */
 public class App {

@@ -1,5 +1,8 @@
 package com.spk.strings;
-
+/**
+ * @author Praveen
+ *
+ */
 public class StringRev {
 
 	static String reverceSentence(String input) {

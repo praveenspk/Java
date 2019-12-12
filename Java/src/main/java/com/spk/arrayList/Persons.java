@@ -1,5 +1,8 @@
 package com.spk.arrayList;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Persons {
 
 	private final String name;

@@ -4,7 +4,10 @@ package com.spk.Collections.aggregate;
 
 import java.util.*;
 import java.util.stream.*;
-
+/**
+ * @author Praveen
+ *
+ */
 public class FindDups {
 	public static void main(String[] args) {
 		Set<String> distinctWords = Arrays.asList("Praveen", "Vardhan", "Thimothy", "Praveen", "Rajesh", "Suresh")

@@ -1,5 +1,8 @@
 package com.spk.strings;
-
+/**
+ * @author Praveen
+ *
+ */
 public class CharToStringDemo {
 	public static void main(String args[]) {
 		// Method 1: Using toString() method

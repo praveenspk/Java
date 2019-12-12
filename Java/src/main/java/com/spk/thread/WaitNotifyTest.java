@@ -1,5 +1,8 @@
 package com.spk.thread;
-
+/**
+ * @author Praveen
+ *
+ */
 public class WaitNotifyTest {
 
 	public static void main(String[] args) {

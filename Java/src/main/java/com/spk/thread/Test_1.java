@@ -1,5 +1,8 @@
 package com.spk.thread;
-
+/**
+ * @author Praveen
+ *
+ */
  class Demo1 implements Runnable {
 
 	@Override

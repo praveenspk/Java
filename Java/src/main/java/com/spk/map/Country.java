@@ -1,5 +1,8 @@
 package com.spk.map;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Country {
 	String name;
 	long population;

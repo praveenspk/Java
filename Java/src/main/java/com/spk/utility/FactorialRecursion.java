@@ -1,5 +1,8 @@
 package com.spk.utility;
-
+/**
+ * @author Praveen
+ *
+ */
 public class FactorialRecursion {
 	public static Long factorial(int num) {
 		if (num >= 1)

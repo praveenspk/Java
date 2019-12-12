@@ -1,6 +1,10 @@
 package com.spk.thread;
 
 //Java program to control the Main Thread
+/**
+ * @author Praveen
+ *
+ */
 public class ThreadControl extends Thread {
 	public static void main(String[] args) {
 		// getting reference to Main thread

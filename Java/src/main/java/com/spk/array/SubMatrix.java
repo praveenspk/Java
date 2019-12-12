@@ -2,6 +2,10 @@ package com.spk.array;
 
 import java.util.Scanner;
 
+/**
+ * @author Praveen
+ *
+ */
 public class SubMatrix {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

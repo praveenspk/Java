@@ -3,7 +3,10 @@ package com.spk.array;
 import java.util.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
-
+/**
+ * @author Praveen
+ *
+ */
 public class BeautifulArray {
 	private static Scanner sc;
 

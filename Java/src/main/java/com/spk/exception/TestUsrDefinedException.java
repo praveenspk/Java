@@ -1,5 +1,8 @@
 package com.spk.exception;
-
+/**
+ * @author Praveen
+ *
+ */
 class TestUsrDefinedException {
 	static void validate(int age) throws InvalidAgeException {
 		if (age < 18)

@@ -1,6 +1,11 @@
 package com.spk.utility;
 
 import java.util.Scanner;
+
+/**
+ * @author Praveen
+ *
+ */
 public class Sum_of_Digits {
 
   public static void main(String[] args)

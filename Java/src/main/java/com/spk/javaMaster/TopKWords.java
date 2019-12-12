@@ -8,7 +8,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class TopKWords {
 	static class CountWords {
 		private String fileName;

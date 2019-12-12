@@ -1,5 +1,8 @@
 package com.spk.patterns;
-
+/**
+ * @author Praveen
+ *
+ */
 public class NumberPatern2 {
 	public static void NumberSeries(int num) {
 		for (int i = 1; i <= num; i++) {

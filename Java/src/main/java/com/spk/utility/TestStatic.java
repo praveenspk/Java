@@ -1,5 +1,8 @@
 package com.spk.utility;
-
+/**
+ * @author Praveen
+ *
+ */
 public class TestStatic {
 
 	static String name = "Huawei";

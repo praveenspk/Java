@@ -1,5 +1,8 @@
 package com.spk.thread;
-
+/**
+ * @author Praveen
+ *
+ */
 class Shared {
 	
 	synchronized void waitMethod() {

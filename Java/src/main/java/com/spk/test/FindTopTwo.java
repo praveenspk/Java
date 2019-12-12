@@ -1,5 +1,8 @@
 package com.spk.test;
-
+/**
+ * @author Praveen
+ *
+ */
 public class FindTopTwo {
 
 	public void findTwoMaxNumbers(int[] array) {

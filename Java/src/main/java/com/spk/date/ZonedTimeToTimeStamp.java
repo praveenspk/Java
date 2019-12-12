@@ -2,7 +2,10 @@ package com.spk.date;
 
 import java.sql.Timestamp;
 import java.time.ZonedDateTime;
-
+/**
+ * @author Praveen
+ *
+ */
 public class ZonedTimeToTimeStamp {
 	static void convertZonedTimeToTmeStamp() {
 		ZonedDateTime timeNow = ZonedDateTime.now();

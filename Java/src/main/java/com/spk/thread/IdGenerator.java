@@ -1,7 +1,10 @@
 package com.spk.thread;
 
 import java.util.Random;
-
+/**
+ * @author Praveen
+ *
+ */
 public class IdGenerator extends Thread {
 
 	Random randID = new Random();

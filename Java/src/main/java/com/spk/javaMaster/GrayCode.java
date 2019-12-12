@@ -2,7 +2,10 @@ package com.spk.javaMaster;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
+/**
+ * @author Praveen
+ *
+ */
 public class GrayCode {
 
 	public static void main(String[] args) {

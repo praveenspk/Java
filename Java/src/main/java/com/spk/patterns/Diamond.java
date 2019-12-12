@@ -1,5 +1,8 @@
 package com.spk.patterns;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Diamond {
 
 	public static void dimondPattern(int num){

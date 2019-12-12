@@ -1,5 +1,8 @@
 package com.spk.Interfaces;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Java_StaticImpl implements Java_StaticMethods {
 
 	public Java_StaticImpl() {

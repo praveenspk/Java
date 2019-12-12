@@ -3,7 +3,10 @@ package com.spk.Collections.queue;
 import java.util.ArrayDeque;
 import java.util.Collections;
 import java.util.Deque;
-
+/**
+ * @author Praveen
+ *
+ */
 public class CollectionQueue {
 	public static void main(String args[]) {
 		Deque<String> arrayDeque = new ArrayDeque<String>(2);

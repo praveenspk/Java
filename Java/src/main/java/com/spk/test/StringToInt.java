@@ -1,7 +1,10 @@
 package com.spk.test;
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class StringToInt {
     public static void main(String args[]) {
      String inputString;

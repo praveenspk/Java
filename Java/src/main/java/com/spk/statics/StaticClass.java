@@ -1,5 +1,9 @@
 package com.spk.statics;
 
+/**
+ * @author Praveen
+ *
+ */
 public class StaticClass {
 
 	static String str = "Static class";

@@ -1,5 +1,8 @@
 package com.spk.patterns;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Alpha {
 
 	public static void AlphaSeries() {

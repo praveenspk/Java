@@ -1,5 +1,8 @@
 package com.spk.test;
-
+/**
+ * @author Praveen
+ *
+ */
 public class IntegerTest {
 
 	public static void main(String[] args) {

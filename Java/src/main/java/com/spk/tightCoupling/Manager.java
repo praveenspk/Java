@@ -1,5 +1,8 @@
 package com.spk.tightCoupling;
-
+/**
+ * @author Praveen
+ *
+ */
 class Manager {
 
 	SmartWork sw;

@@ -2,7 +2,10 @@ package com.spk.map;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * @author Praveen
+ *
+ */
 public class MapFrequency {
 	
 	static void frequency(int arr[]){

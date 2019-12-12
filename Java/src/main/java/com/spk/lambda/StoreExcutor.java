@@ -1,7 +1,10 @@
 package com.spk.lambda;
 
 import java.util.function.Consumer;
-
+/**
+ * @author Praveen
+ *
+ */
 public class StoreExcutor {
 
 	public static void main(String[] args) {

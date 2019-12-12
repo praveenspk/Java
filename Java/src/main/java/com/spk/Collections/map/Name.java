@@ -1,5 +1,8 @@
 package com.spk.Collections.map;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Name implements Comparable<Name> {
 	
 	private final String firstName, lastName;

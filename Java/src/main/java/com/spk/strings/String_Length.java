@@ -1,5 +1,8 @@
 package com.spk.strings;
-
+/**
+ * @author Praveen
+ *
+ */
 public class String_Length {
 	
 	//Finding String Array length without using String.Length()?

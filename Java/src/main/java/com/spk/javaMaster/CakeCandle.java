@@ -1,7 +1,10 @@
 package com.spk.javaMaster;
 
 import java.io.*;
-
+/**
+ * @author Praveen
+ *
+ */
 public class CakeCandle {
 
 	// Complete the birthdayCakeCandles function below.

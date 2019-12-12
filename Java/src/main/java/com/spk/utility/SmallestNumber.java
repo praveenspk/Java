@@ -1,5 +1,8 @@
 package com.spk.utility;
-
+/**
+ * @author Praveen
+ *
+ */
 public class SmallestNumber {
 
 	static double getSmallest(double x, double y, double z) {

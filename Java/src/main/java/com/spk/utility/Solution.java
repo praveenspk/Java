@@ -2,7 +2,10 @@ package com.spk.utility;
 
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Solution {
 
     public static void main(String[] args) {

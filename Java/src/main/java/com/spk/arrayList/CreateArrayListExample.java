@@ -3,6 +3,10 @@ package com.spk.arrayList;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author Praveen
+ *
+ */
 public class CreateArrayListExample {
 
 	public static void main(String[] args) {

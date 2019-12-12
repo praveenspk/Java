@@ -2,7 +2,10 @@ package com.spk.arrayList;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @author Praveen
+ *
+ */
 public class List_ToArray {
 	public static void main(String[] args) {
 		List<String> myList=new ArrayList<>();

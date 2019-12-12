@@ -1,5 +1,8 @@
 package com.spk.Interfaces;
-
+/**
+ * @author Praveen
+ *
+ */
 interface Java8InterfaceDemo {
 
 	static void prints(String str) {

@@ -3,7 +3,10 @@ package com.spk.date;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class SimpleDateConversion {
 
 public static void main(String[] args) {

@@ -1,7 +1,10 @@
 package com.spk.exception;
 
 import java.io.IOException;
-
+/**
+ * @author Praveen
+ *
+ */
 class Parent {
 	void sum(int a, int b) throws IOException {
 		int c = a / b;

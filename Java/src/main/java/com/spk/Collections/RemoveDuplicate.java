@@ -4,7 +4,10 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
-
+/**
+ * @author Praveen
+ *
+ */
 public class RemoveDuplicate {
 
 	public static void main(String[] args) {

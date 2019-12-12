@@ -1,5 +1,8 @@
 package com.spk.strings;
-
+/**
+ * @author Praveen
+ *
+ */
 class Solution {
 	public static String longestPalindrome(String s) {
 		int n = s.length();

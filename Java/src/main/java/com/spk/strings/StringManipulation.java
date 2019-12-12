@@ -1,5 +1,8 @@
 package com.spk.strings;
-
+/**
+ * @author Praveen
+ *
+ */
 public class StringManipulation {
 	public static void main(String[] args) {
 

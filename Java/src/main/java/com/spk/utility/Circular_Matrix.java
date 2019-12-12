@@ -1,7 +1,10 @@
 package com.spk.utility;
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Circular_Matrix {
 	static void spiralPrintingAntiClockwise(int n) {
 

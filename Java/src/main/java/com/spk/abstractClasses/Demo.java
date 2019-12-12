@@ -1,5 +1,9 @@
 package com.spk.abstractClasses;
 
+/**
+ * @author Praveen
+ *
+ */
 abstract class RBI {
 
 	public abstract double getRateOfInterest(int days);

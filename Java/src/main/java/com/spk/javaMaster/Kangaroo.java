@@ -1,7 +1,10 @@
 package com.spk.javaMaster;
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Kangaroo {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

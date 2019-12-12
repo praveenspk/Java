@@ -5,7 +5,10 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.IOException;
-
+/**
+ * @author Praveen
+ *
+ */
 public class WordCount_FileDemo {
 
 	static void getWordCountByWord() throws IOException {

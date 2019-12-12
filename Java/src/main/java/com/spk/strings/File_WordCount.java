@@ -7,7 +7,10 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * @author Praveen
+ *
+ */
 public class File_WordCount {
 	static void getWordCount() throws IOException {
 		File f1 = new File("C:/Users/s84119411/Desktop/input.txt");

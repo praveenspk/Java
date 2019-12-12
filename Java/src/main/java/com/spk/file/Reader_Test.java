@@ -1,7 +1,10 @@
 package com.spk.file;
 
 import java.io.*;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Reader_Test {
 	static class Reader {
 		final private int BUFFER_SIZE = 1 << 16;

@@ -14,7 +14,10 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 import javax.swing.JButton;
 import javax.swing.JFrame;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Screenshot extends JFrame {
 	Robot robot;
 	public Screenshot() {

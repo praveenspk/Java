@@ -3,7 +3,10 @@ package com.spk.concurrency;
 import java.util.Date;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
-
+/**
+ * @author Praveen
+ *
+ */
 class PrinterQueue {
 	private final Lock queueLock = new ReentrantLock();
 

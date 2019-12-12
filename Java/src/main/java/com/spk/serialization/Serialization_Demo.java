@@ -4,7 +4,10 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
-
+/**
+ * @author Praveen
+ *
+ */
 class Dog implements Serializable{
 	int i=0;
 	int j=143;

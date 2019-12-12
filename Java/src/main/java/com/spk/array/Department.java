@@ -2,6 +2,10 @@ package com.spk.array;
 
 import java.io.Serializable;
 
+/**
+ * @author Praveen
+ *
+ */
 public class Department implements Serializable {
 
 	private static final long serialVersionUID = 1L;

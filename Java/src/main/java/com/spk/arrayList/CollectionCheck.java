@@ -5,6 +5,10 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * @author Praveen
+ *
+ */
 public class CollectionCheck {
 	public static void main(String args[]) {
 		List list = new ArrayList();

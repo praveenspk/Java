@@ -3,7 +3,10 @@ package com.spk.jp;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class PrimeEx {
 		   public static void main(String[] args) {  
 		       List list=new ArrayList();

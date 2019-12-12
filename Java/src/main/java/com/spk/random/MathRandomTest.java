@@ -1,5 +1,8 @@
 package com.spk.random;
-
+/**
+ * @author Praveen
+ *
+ */
 public class MathRandomTest {
 
 	public static void main(String[] args) {

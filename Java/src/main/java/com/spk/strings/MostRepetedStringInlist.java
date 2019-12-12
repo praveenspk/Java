@@ -5,7 +5,10 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
-
+/**
+ * @author Praveen
+ *
+ */
 public class MostRepetedStringInlist {
 
 	public static Map.Entry<String, Integer> getMostRepetedString(List<String> str) {

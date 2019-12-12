@@ -1,5 +1,9 @@
 package com.spk.array;
 
+/**
+ * @author Praveen
+ *
+ */
 public class Even_Odd_Sum {
 	public static void main(String[] args) {
 

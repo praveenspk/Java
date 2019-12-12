@@ -1,5 +1,8 @@
 package com.spk.thread;
-
+/**
+ * @author Praveen
+ *
+ */
 public class DemoTask implements Runnable {
 	private String name = null;
 

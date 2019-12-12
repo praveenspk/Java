@@ -1,7 +1,10 @@
 package com.spk.producerConsumer;
 
 import java.util.LinkedList;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Producer {
 	LinkedList<Integer> list = new LinkedList<>();
 	int capacity = 0;

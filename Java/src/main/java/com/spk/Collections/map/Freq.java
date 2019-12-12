@@ -2,7 +2,10 @@ package com.spk.Collections.map;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Freq {
 	public static void main(String[] args) {
 		Map<String, Integer> m = new HashMap<>();

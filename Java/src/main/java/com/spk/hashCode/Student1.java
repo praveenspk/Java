@@ -1,5 +1,8 @@
 package com.spk.hashCode;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Student1 {
 	static int last_roll = 100;
 	int roll_no;

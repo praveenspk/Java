@@ -1,7 +1,10 @@
 package com.spk.javaMaster;
 
 
-
+/**
+ * @author Praveen
+ *
+ */
 public class PlusMinus {
 
 	// Complete the plusMinus function below.

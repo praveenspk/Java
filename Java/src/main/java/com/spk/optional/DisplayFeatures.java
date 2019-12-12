@@ -3,7 +3,10 @@ package com.spk.optional;
 import java.util.Optional;
 
 import com.spk.withoutOptional.ScreenResolution;
-
+/**
+ * @author Praveen
+ *
+ */
 public class DisplayFeatures {
 
 	private String size; // In inches

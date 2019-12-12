@@ -1,6 +1,9 @@
 package com.spk.javaMaster;
 
-
+/**
+ * @author Praveen
+ *
+ */
 public class ValidSudoku {
 	public static void main(String[] args) {
 		System.out.println("Entered into main()");

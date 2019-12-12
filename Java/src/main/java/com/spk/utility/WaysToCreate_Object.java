@@ -2,7 +2,10 @@ package com.spk.utility;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
-
+/**
+ * @author Praveen
+ *
+ */
 public class WaysToCreate_Object {
 
 	public WaysToCreate_Object() {

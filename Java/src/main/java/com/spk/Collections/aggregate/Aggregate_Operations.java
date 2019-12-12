@@ -5,7 +5,10 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
 import java.util.stream.Collectors;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Aggregate_Operations {
 	public static void main(String[] args) {
 		Collection<String> c=new HashSet<>();

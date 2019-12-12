@@ -3,7 +3,10 @@ package com.spk.javaMaster;
 
 import java.io.IOException;
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Diagonal_Difference {
 
     // Complete the diagonalDifference function below.

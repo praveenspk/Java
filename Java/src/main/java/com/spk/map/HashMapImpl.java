@@ -3,7 +3,10 @@ package com.spk.map;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+/**
+ * @author Praveen
+ *
+ */
 public class HashMapImpl {
 
 	public static void main(String[] args) {

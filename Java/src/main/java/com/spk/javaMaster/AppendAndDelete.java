@@ -8,6 +8,10 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+/**
+ * @author Praveen
+ *
+ */
 public class AppendAndDelete {
 
 	static String appendAndDelete(String s, String t, int k) {

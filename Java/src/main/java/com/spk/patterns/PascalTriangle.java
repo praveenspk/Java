@@ -1,5 +1,8 @@
 package com.spk.patterns;
-
+/**
+ * @author Praveen
+ *
+ */
 public class PascalTriangle {
 	public static void PrintPascal(int num) {
 		int bin, p, r, q, x;

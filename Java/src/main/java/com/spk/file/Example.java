@@ -3,7 +3,10 @@ package com.spk.file;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Example {
 
 	@SuppressWarnings("resource")

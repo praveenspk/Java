@@ -1,5 +1,8 @@
 package com.spk.strings;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Character_Count {
 
 	static void countCharacter(String str) {

@@ -12,7 +12,10 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.zip.GZIPOutputStream;
-
+/**
+ * @author Praveen
+ *
+ */
 public class CRUDFileDemo {
 	static void modifiedFileDate() throws IOException {
 		File file = new File("C:/Users/s84119411/Spring/Java_Collections/sample.txt");

@@ -1,5 +1,8 @@
 package com.spk.Polymorphism;
-
+/**
+ * @author Praveen
+ *
+ */
 class RBI{
 	
 	public double getRateOfInterest(){

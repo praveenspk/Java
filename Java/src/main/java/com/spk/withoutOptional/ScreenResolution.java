@@ -1,5 +1,8 @@
 package com.spk.withoutOptional;
-
+/**
+ * @author Praveen
+ *
+ */
 public class ScreenResolution {
 
 	private int width;

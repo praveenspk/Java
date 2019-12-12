@@ -4,7 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import java.util.function.Function;
-
+/**
+ * @author Praveen
+ *
+ */
 public class RandomNumber {
 	Random random=new Random();
 	public int generateRandomNumber() {

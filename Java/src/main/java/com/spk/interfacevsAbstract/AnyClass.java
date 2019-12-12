@@ -1,5 +1,8 @@
 package com.spk.interfacevsAbstract;
-
+/**
+ * @author Praveen
+ *
+ */
 interface InterfaceWithDefaultMethod
 {
     void abstractMethod();           //Abstract Method

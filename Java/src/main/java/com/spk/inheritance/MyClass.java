@@ -1,5 +1,8 @@
 package com.spk.inheritance;
-
+/**
+ * @author Praveen
+ *
+ */
 interface InterfaceOne {
 	default void anyMethod() {
 		System.out.println("Hi... From Interface One");

@@ -1,5 +1,8 @@
 package com.spk.patterns;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Number_RevPyramid {
 
 	public static void printNum(int n) {

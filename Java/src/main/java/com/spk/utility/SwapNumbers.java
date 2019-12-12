@@ -1,5 +1,8 @@
 package com.spk.utility;
-
+/**
+ * @author Praveen
+ *
+ */
 public class SwapNumbers {
 	static void getSwapNumber(int x, int y) {
 		/*

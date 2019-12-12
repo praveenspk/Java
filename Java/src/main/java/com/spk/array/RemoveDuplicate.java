@@ -1,5 +1,9 @@
 package com.spk.array;
 
+/**
+ * @author Praveen
+ *
+ */
 public class RemoveDuplicate {
 	public static void removeDuplicate(int[] input, int len) {
 		for (int i = 0; i < len; i++) {

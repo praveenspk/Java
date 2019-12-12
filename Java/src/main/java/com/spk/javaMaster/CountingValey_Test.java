@@ -1,7 +1,10 @@
 package com.spk.javaMaster;
 
 import java.io.IOException;
-
+/**
+ * @author Praveen
+ *
+ */
 public class CountingValey_Test {
 	public static void main(String[] args) throws IOException {
 		System.out.println(solve("UDDDUDUU"));

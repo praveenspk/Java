@@ -1,5 +1,8 @@
 package com.spk.concurrency;
-
+/**
+ * @author Praveen
+ *
+ */
 public class LockExample {
 	public static void main(String[] args) {
 		PrinterQueue printerQueue = new PrinterQueue();

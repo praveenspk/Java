@@ -2,7 +2,10 @@ package com.spk.javaMaster;
 
 import java.io.*;
 import java.util.*;
-
+/**
+ * @author Praveen
+ *
+ */
 public class BonAppetit {
 	static void bonAppetit(List<Integer> bill, int k, int b) {
 		

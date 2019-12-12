@@ -1,5 +1,8 @@
 package com.spk.utility;
-
+/**
+ * @author Praveen
+ *
+ */
 public class PrimeNumber {
 
 	static void getPrimeNumber() {

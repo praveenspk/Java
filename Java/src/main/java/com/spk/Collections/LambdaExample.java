@@ -2,7 +2,10 @@ package com.spk.Collections;
 
 import java.util.Arrays;
 import java.util.List;
-
+/**
+ * @author Praveen
+ *
+ */
 public class LambdaExample {
 
 	public static void main(String[] args) {

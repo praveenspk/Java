@@ -2,7 +2,10 @@ package com.spk.javaMaster;
 
 import java.io.*;
 
-
+/**
+ * @author Praveen
+ *
+ */
 public class BigInteger {
 
 	// Complete the aVeryBigSum function below.

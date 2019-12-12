@@ -1,5 +1,8 @@
 package com.spk.strings;
-
+/**
+ * @author Praveen
+ *
+ */
 public class RemoveDuplicates {
 	public String removeDuplicates(String input) {
 		String result="";

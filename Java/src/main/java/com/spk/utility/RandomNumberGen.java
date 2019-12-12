@@ -1,7 +1,10 @@
 package com.spk.utility;
 
 import java.util.Random;
-
+/**
+ * @author Praveen
+ *
+ */
 public class RandomNumberGen {
 	public static void main(String[] args) {
 		// RandomNumberGen r=new RandomNumberGen();

@@ -1,5 +1,8 @@
 package com.spk.interfacevsAbstract;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Test extends anyAbstractClass implements anyInterface {
 
 	@Override

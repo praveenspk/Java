@@ -1,7 +1,10 @@
 package com.spk.javaMaster;
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class SherlockSquares {
 
 	static int squares(int a, int b) {

@@ -1,6 +1,9 @@
 package com.spk.thread;
 
-
+/**
+ * @author Praveen
+ *
+ */
 class MultiThread {
 	public static void main(String args[]) {
 		new MyThread("One");

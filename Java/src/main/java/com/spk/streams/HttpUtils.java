@@ -5,7 +5,10 @@ import java.io.IOException;
 import java.net.URL;
 import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
-
+/**
+ * @author Praveen
+ *
+ */
 public class HttpUtils {
 
     public static void main(String[] args) {

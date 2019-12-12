@@ -1,5 +1,8 @@
 package com.spk.tightCoupling;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Tight_Coupling {
 	public static void main(String[] args) {
 		SmartWork sw = new SmartWork();

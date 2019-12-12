@@ -3,6 +3,10 @@ package com.spk.lambda;
 import java.util.function.BiConsumer;
 import java.util.function.Consumer;
 
+/**
+ * @author Praveen
+ *
+ */
 public class Calculator {
 
 	public static void main(String[] args) {

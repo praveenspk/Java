@@ -5,7 +5,10 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.RejectedExecutionHandler;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
-
+/**
+ * @author Praveen
+ *
+ */
 public class DemoExecutor {
 	public static void main(String[] args) {
 		Integer threadCounter = 0;

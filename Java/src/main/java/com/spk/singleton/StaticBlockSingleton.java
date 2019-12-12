@@ -1,5 +1,8 @@
 package com.spk.singleton;
-
+/**
+ * @author Praveen
+ *
+ */
 public class StaticBlockSingleton {
 
 	private static StaticBlockSingleton instance;

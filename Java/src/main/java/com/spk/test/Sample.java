@@ -1,7 +1,10 @@
 package com.spk.test;
 
 
-
+/**
+ * @author Praveen
+ *
+ */
 public class Sample {
 
 	void add(int a) {

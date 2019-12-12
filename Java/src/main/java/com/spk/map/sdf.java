@@ -1,7 +1,10 @@
 package com.spk.map;
 
 import java.util.Objects;
-
+/**
+ * @author Praveen
+ *
+ */
 class CityReport {
 	String city;
 	Long counter;

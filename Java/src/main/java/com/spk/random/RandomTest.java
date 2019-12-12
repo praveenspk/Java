@@ -1,7 +1,10 @@
 package com.spk.random;
 
 import java.util.Random;
-
+/**
+ * @author Praveen
+ *
+ */
 public class RandomTest {
 
 	public static void main(String[] args) {

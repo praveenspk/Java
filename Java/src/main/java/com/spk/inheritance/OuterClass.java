@@ -1,5 +1,8 @@
 package com.spk.inheritance;
-
+/**
+ * @author Praveen
+ *
+ */
 public class OuterClass {
 
 	private int outerA = 10;

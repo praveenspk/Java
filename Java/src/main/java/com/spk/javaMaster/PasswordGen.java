@@ -4,7 +4,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
-
+/**
+ * @author Praveen
+ *
+ */
 class PasswordGen {
     public static void main(String args[]) {
         String password = generatePassword(8, 16);

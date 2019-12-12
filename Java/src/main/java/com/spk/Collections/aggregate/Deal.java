@@ -3,7 +3,10 @@ package com.spk.Collections.aggregate;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Deal {
 	public static void main(String[] args) {
 

@@ -1,5 +1,8 @@
 package com.spk.exception;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Main {
 
 	// Returns the distance between the two closest numbers.

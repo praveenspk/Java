@@ -3,7 +3,10 @@ package com.spk.reflect;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
-
+/**
+ * @author Praveen
+ *
+ */
 class Demo {
 	public static void main(String args[]) throws Exception {
 		// Creating object whose property is to be checked

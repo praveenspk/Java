@@ -8,7 +8,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Anagrams {
 	public static void main(String[] args) {
 		int minGroupSize = Integer.parseInt(args[1]);

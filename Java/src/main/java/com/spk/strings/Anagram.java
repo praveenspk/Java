@@ -1,5 +1,8 @@
 package com.spk.strings;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Anagram {
 
 	public static void findAnagram(String str, String str2) {

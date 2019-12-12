@@ -1,5 +1,9 @@
 package com.spk.javaMaster;
 
+/**
+ * @author Praveen
+ *
+ */
 public class BigInteger_Sum {
 	static void getBigSum(Long arr[]) {
 		long total = 0;

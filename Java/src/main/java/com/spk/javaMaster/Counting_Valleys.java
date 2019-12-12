@@ -3,7 +3,10 @@ package com.spk.javaMaster;
 import java.io.*;
 import java.util.Scanner;
 
-
+/**
+ * @author Praveen
+ *
+ */
 public class Counting_Valleys {
 
 	// Complete the countingValleys function below.

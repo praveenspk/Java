@@ -1,5 +1,8 @@
 package com.spk.constructor;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Wallet {
 	private String mobileNumber;
 	private Double walletBalance;

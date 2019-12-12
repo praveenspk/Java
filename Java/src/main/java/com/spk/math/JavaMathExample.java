@@ -1,5 +1,8 @@
 package com.spk.math;
-
+/**
+ * @author Praveen
+ *
+ */
 public class JavaMathExample {
 	static double a = 498.78;
 	static double b = 583.6;

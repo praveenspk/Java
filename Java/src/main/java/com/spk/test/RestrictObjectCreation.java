@@ -2,7 +2,10 @@
 package com.spk.test;
 
 // program to restrict a class from not to create more than three instances
-
+/**
+ * @author Praveen
+ *
+ */
 public class RestrictObjectCreation {
 
 	private static RestrictObjectCreation object;

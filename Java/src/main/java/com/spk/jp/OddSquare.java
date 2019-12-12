@@ -1,6 +1,9 @@
 
 package com.spk.jp;
-
+/**
+ * @author Praveen
+ *
+ */
 public class OddSquare {
 
 	public static int findOddSquare(int num) {

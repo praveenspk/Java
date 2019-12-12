@@ -6,7 +6,10 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 import java.util.stream.LongStream;
-
+/**
+ * @author Praveen
+ *
+ */
 public class MinMax_Sum {
 
 	// Complete the miniMaxSum function below.

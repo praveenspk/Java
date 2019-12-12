@@ -1,5 +1,8 @@
 package com.spk.utility;
-
+/**
+ * @author Praveen
+ *
+ */
 public class SmallestNumberTest {
 	// this program finds out the smallest number which is repeated K times in a
 	// given array

@@ -2,7 +2,10 @@ package com.spk.strings;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * @author Praveen
+ *
+ */
 public class StringCount {
 
 	public static void count(String x) {

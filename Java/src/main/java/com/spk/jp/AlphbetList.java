@@ -2,7 +2,10 @@ package com.spk.jp;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @author Praveen
+ *
+ */
 public class AlphbetList {
 
 	static void printListNumber(List<Character> alphaList) {

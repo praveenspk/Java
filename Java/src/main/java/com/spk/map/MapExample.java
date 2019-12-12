@@ -2,7 +2,10 @@ package com.spk.map;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
-
+/**
+ * @author Praveen
+ *
+ */
 public class MapExample {
 	public static void main(String[] args) {
 		// Creating a HashMap

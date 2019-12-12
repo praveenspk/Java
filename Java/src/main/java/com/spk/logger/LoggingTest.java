@@ -3,7 +3,10 @@ package com.spk.logger;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+/**
+ * @author Praveen
+ *
+ */
 public class LoggingTest {
 
 	private static final Logger logger = LoggerFactory.getLogger(LoggingTest.class);

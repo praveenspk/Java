@@ -3,7 +3,10 @@ package com.spk.arrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
-
+/**
+ * @author Praveen
+ *
+ */
 public class ListTraverse {
 
 	private static void listIterateDemo() {

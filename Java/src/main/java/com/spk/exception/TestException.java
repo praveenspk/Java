@@ -1,5 +1,8 @@
 package com.spk.exception;
-
+/**
+ * @author Praveen
+ *
+ */
 public class TestException {
 	public static void main(String[] args) {
 		int x=1;

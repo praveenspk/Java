@@ -3,7 +3,10 @@ package com.spk.strings;
 
 import java.util.Arrays;
 import java.util.regex.Pattern;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Stringto {
 	public static void main(String[] args) {
 		String blogName = "java Praveen";

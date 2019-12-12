@@ -6,6 +6,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * @author Praveen
+ *
+ */
 public class Alice_Bob_Solution {
 
 	// Complete the compareTriplets function below.

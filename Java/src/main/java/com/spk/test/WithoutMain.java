@@ -1,7 +1,10 @@
 package com.spk.test;
 
 import javafx.application.Application;
-
+/**
+ * @author Praveen
+ *
+ */
 public abstract class WithoutMain extends Application {
 
 	static {

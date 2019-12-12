@@ -1,6 +1,9 @@
 
 package com.spk.singleton;
-
+/**
+ * @author Praveen
+ *
+ */
 public class SingletonObjectDemo {
 
 	public static void main(String args[]) {

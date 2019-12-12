@@ -2,7 +2,10 @@ package com.spk.file;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
-
+/**
+ * @author Praveen
+ *
+ */
 public class WriteStringToFile {
 
 	public static void main(String[] args) {

@@ -3,6 +3,10 @@ package com.spk.arrayList;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * @author Praveen
+ *
+ */
 public class CreateHashSetExample {
 	public static void main(String[] args) {
 		// Creating a HashSet

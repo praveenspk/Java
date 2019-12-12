@@ -5,7 +5,10 @@ import java.util.Iterator;
 import java.util.List;
 /*
 How to remove an element from collection using Iterator object?*/
-
+/**
+ * @author Praveen
+ *
+ */
 public class MyItrRemoveElement {
 
 	public static void main(String a[]) {

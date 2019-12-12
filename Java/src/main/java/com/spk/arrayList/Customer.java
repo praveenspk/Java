@@ -1,5 +1,9 @@
 package com.spk.arrayList;
 
+/**
+ * @author Praveen
+ *
+ */
 public class Customer {
 
 	private Integer custId;

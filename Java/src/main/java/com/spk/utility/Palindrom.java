@@ -1,5 +1,8 @@
 package com.spk.utility;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Palindrom {
 
 	// Method 1 : Without using String methods

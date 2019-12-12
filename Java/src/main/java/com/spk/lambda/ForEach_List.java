@@ -2,7 +2,10 @@ package com.spk.lambda;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @author Praveen
+ *
+ */
 public class ForEach_List {
 
 	public static void main(String[] args) {

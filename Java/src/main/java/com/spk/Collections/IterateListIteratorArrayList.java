@@ -2,7 +2,10 @@ package com.spk.Collections;
 
 import java.util.ArrayList;
 import java.util.ListIterator;
-
+/**
+ * @author Praveen
+ *
+ */
 public class IterateListIteratorArrayList {
 
 	public static void main(String[] args) 

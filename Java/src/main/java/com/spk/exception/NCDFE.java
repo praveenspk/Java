@@ -1,5 +1,8 @@
 package com.spk.exception;
-
+/**
+ * @author Praveen
+ *
+ */
 class Sample {
 	public void display() {
 		System.out.println("Hello ");

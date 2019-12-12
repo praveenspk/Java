@@ -1,6 +1,9 @@
 package com.spk.arrayList;
 
-
+/**
+ * @author Praveen
+ *
+ */
 public class Student implements Comparable<Student>{
 
 	private String name;

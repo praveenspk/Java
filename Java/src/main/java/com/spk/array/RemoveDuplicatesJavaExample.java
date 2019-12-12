@@ -2,6 +2,10 @@ package com.spk.array;
 
 import java.util.Arrays;
 
+/**
+ * @author Praveen
+ *
+ */
 public class RemoveDuplicatesJavaExample {
 	static void removeDuplicates(int[] arrayWithDuplicates) {
 		System.out.println("Array With Duplicates : ");

@@ -1,5 +1,8 @@
 package com.spk.patterns;
-
+/**
+ * @author Praveen
+ *
+ */
 public class AlphabetSeries {
 
 	public static void main(String[] args) {

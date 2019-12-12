@@ -1,7 +1,10 @@
 package com.spk.strings;
 
 import java.util.Arrays;
-
+/**
+ * @author Praveen
+ *
+ */
 public class SmallDigit {
 
 	static int smallDigit(int num) {

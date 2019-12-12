@@ -1,5 +1,8 @@
 package com.spk.thread;
-
+/**
+ * @author Praveen
+ *
+ */
 /*class Demo_2 extends Thread {
 
 	Thread t=new Thread(new Runnable() {

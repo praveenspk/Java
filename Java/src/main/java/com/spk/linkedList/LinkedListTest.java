@@ -4,7 +4,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.LinkedList;
-
+/**
+ * @author Praveen
+ *
+ */
 public class LinkedListTest {
 	public static void main(String[] args) {
 		LinkedList<String> list = new LinkedList<>();

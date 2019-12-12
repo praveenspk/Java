@@ -1,7 +1,10 @@
 package com.spk.javaMaster;
 
 import java.util.Arrays;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Mini_Max_Sum {
 
 	static void miniMaxSum(Long[] arr) {

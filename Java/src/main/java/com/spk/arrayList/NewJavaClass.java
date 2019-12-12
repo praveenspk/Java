@@ -3,7 +3,10 @@ package com.spk.arrayList;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+/**
+ * @author Praveen
+ *
+ */
 public class NewJavaClass {
 	public static void main(String args[]) {
 		List<String> list1 = new ArrayList<String>();

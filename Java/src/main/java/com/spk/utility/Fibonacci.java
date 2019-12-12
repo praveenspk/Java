@@ -1,5 +1,8 @@
 package com.spk.utility;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Fibonacci {
 	public static int fibonacci(int n) {
 		if (n == 0 || n == 1)

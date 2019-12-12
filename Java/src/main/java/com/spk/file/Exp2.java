@@ -4,6 +4,10 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
+/**
+ * @author Praveen
+ *
+ */
 public class Exp2 {
 
 	public static void main(String[] args) {

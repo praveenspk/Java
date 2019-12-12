@@ -1,6 +1,10 @@
 package com.spk.reflect;
 
 //class whose object is to be created
+/**
+ * @author Praveen
+ *
+ */
 class Test {
 	// creating a private field
 	private String s;

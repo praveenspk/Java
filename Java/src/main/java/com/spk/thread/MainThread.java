@@ -14,7 +14,10 @@ package com.spk.thread;
 
 
 
-
+/**
+ * @author Praveen
+ *
+ */
 //OddThread to print odd numbers
 
 //Calls printOdd() method of SharedPrinter class until limit is exceeded.

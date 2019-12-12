@@ -1,7 +1,10 @@
 package com.spk.utility;
 
 
-
+/**
+ * @author Praveen
+ *
+ */
 public class OTP {
 
 	private static final String ALPHA_NUMERIC_STRING = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@#$%&*!";

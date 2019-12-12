@@ -1,6 +1,9 @@
 package com.spk.thread;
 
-
+/**
+ * @author Praveen
+ *
+ */
 class Demo extends Thread{
 	
 	public void run() {

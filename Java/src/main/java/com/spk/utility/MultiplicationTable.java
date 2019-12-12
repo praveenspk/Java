@@ -1,5 +1,8 @@
 package com.spk.utility;
-
+/**
+ * @author Praveen
+ *
+ */
 public class MultiplicationTable {
 	public static void main(String[] args) {
 

@@ -1,9 +1,0 @@
-package com.spk.exception;
-
-public class TestException {
-	public static void main(String[] args) {
-		int x=1;
-		System.out.println(~x);
-	}
-
-}

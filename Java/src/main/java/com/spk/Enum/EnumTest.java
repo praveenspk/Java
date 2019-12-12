@@ -1,5 +1,8 @@
 package com.spk.Enum;
-
+/**
+ * @author Praveen
+ *
+ */
 public class EnumTest {
 	Day day;
 

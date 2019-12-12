@@ -1,7 +1,10 @@
 package com.spk.utility;
 
 import java.io.*;
-
+/**
+ * @author Praveen
+ *
+ */
 public class OSTest {
 	public static void main(String[] args) throws IOException {
 		String input;

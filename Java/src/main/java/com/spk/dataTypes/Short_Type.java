@@ -1,5 +1,8 @@
 package com.spk.dataTypes;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Short_Type {
 
 	public static void main(String[] args) {

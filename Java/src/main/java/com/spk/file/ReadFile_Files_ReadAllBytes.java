@@ -3,7 +3,10 @@ package com.spk.file;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
-
+/**
+ * @author Praveen
+ *
+ */
 public class ReadFile_Files_ReadAllBytes {
 	  public static void main(String [] pArgs) throws IOException {
 	    String fileName = "d:\\spk.txt";

@@ -1,7 +1,10 @@
 package com.spk.javaMaster;
 
 import java.util.Scanner;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Apple_And_Orange {
 
 	// Complete the countApplesAndOranges function below.

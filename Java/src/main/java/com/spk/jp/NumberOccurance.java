@@ -1,5 +1,8 @@
 package com.spk.jp;
-
+/**
+ * @author Praveen
+ *
+ */
 public class NumberOccurance {
 
 	public static void findOccurance(String str){

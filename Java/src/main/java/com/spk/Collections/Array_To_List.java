@@ -6,7 +6,10 @@ import java.util.LinkedList;
 import java.util.List;
 
 import javax.swing.plaf.synth.SynthSeparatorUI;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Array_To_List {
 
 	public static void main(String[] args) {

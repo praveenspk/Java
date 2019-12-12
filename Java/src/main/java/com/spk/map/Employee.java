@@ -1,5 +1,8 @@
 package com.spk.map;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Employee {
 	private Integer id;
 	private String name;

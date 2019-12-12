@@ -1,5 +1,8 @@
 package com.spk.interfacevsAbstract;
-
+/**
+ * @author Praveen
+ *
+ */
 abstract class anyAbstractClass
 {
     private int a;          //Abstract class can have private field

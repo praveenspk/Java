@@ -2,7 +2,10 @@ package com.spk.map;
 
 import java.util.HashMap;
 import java.util.TreeMap;
-
+/**
+ * @author Praveen
+ *
+ */
 public class HashMap_Test {
 	@SuppressWarnings({ "unchecked", "unlikely-arg-type" })
 	public static void main(String[] args) {

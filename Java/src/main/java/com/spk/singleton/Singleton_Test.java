@@ -1,5 +1,8 @@
 package com.spk.singleton;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Singleton_Test {
 
 	private static Singleton_Test obj = null;

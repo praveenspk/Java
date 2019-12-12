@@ -1,5 +1,8 @@
 package com.spk.strings;
-
+/**
+ * @author Praveen
+ *
+ */
 public class Intern_Test {
 
 	public static void main(String[] args) {

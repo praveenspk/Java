@@ -3,6 +3,10 @@ package com.spk.array;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author Praveen
+ *
+ */
 public class List_To_Array {
 
 	public static void main(String[] args) {
