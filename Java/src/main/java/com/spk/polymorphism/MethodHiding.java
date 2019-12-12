@@ -1,5 +1,5 @@
 
-package com.spk.Polymorphism;
+package com.spk.polymorphism;
 /**
  * @author Praveen
  *

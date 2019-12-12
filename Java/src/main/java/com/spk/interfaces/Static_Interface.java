@@ -1,4 +1,4 @@
-package com.spk.Interfaces;
+package com.spk.interfaces;
 /**
  * @author Praveen
  *
