@@ -1,3 +1,3 @@
 # Java
-Java core examples
+Java core examples and 
 Java 8 features
