@@ -1,4 +1,5 @@
 package com.spk.thread;
+
 /**
  * @author Praveen
  *
@@ -14,6 +15,12 @@ public class Waiter implements Runnable {
 	@Override
 	public void run() {
 		String name = Thread.currentThread().getName();
+
+		try {
+			msg.wait();
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
 		synchronized (msg) {
 			try {
 				System.out.println(name + " waiting to get notified at time:" + System.currentTimeMillis());
