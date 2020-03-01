@@ -9,39 +9,83 @@ package com.spk.utility;
  */
 public class DecimalCurrencyToStatement {
 
-	public static String convertDecimalCurrencyToStatement(int currency) {
-		String statement = "";
-		int modPrev=0,mod=0;
-		for (int i = 0; currency > 0; i++) {
-			modPrev=mod;
-			mod=currency % 10;
-			if(i==1 && mod==1 )
-			{
-				//to get teen values
-				statement=numberEquivalent(i, modPrev)+decimalStatementEquivalent(i, modPrev);
-			}else
-			{
-			statement = numberEquivalent(i,mod) + decimalStatementEquivalent(i,mod) +" "+ statement;
-			}
-			currency = currency / 10;
+	static String numberToWord(int number) {
+		String word = "";
+		for (int i = 0; number > 0; i++) {
+
+			word = numberEquivalents(number % 10) + " " + word;
+			number = number / 10;
 		}
-		return statement;
+
+		return word;
 	}
-	
 
 	/**
 	 * @param i
 	 * @return
 	 */
-	private static String decimalStatementEquivalent(int decimal,int number) {
+	private static String numberEquivalents(int i) {
+		// TODO Auto-generated method stub
+
+		switch (i) {
+		case 1:
+			return "One";
+
+		case 2:
+			return "Two";
+		case 3:
+			return "Three";
+		case 4:
+			return "Four";
+		case 5:
+			return "Five";
+
+		case 6:
+			return "Six";
+
+		case 7:
+			return "Seven";
+		case 8:
+			return "Eight";
+		case 9:
+			return "Nine";
+
+		default:
+			break;
+		}
+
+		return " ";
+	}
+
+	public static String convertDecimalCurrencyToStatement(int currency) {
+		String statement = "";
+		int modPrev = 0, mod = 0;
+		for (int i = 0; currency > 0; i++) {
+			modPrev = mod;
+			mod = currency % 10;
+			if (i == 1 && mod == 1) {
+				// to get teen values
+				statement = numberEquivalent(i, modPrev) + decimalStatementEquivalent(i, modPrev);
+			} else {
+				statement = numberEquivalent(i, mod) + decimalStatementEquivalent(i, mod) + " " + statement;
+			}
+			currency = currency / 10;
+		}
+		return statement;
+	}
+
+	/**
+	 * @param i
+	 * @return
+	 */
+	private static String decimalStatementEquivalent(int decimal, int number) {
 		// TODO Auto-generated method stub
 
 		switch (decimal) {
 		case 1:
-			if(decimal==1 && number==1)
-			 return "teen";
-			else
-			{
+			if (decimal == 1 && number == 1)
+				return "teen";
+			else {
 				return "";
 			}
 		case 2:
@@ -68,51 +112,39 @@ public class DecimalCurrencyToStatement {
 	 * @param i
 	 * @return
 	 */
-	private static String numberEquivalent(int decimal,int number) {
+	private static String numberEquivalent(int decimal, int number) {
 		// TODO Auto-generated method stub
-		boolean myTeaFlag=false;
-		if( decimal==1 || decimal==4 || decimal==6)
-		{
-			myTeaFlag=true;
+		boolean myTeaFlag = false;
+		if (decimal == 1 || decimal == 4 || decimal == 6) {
+			myTeaFlag = true;
 		}
 		switch (number) {
 		case 1:
 			return "One";
 
 		case 2:
-			if(myTeaFlag)
-			{
-			return "twenty";
-			}else
-			{
+			if (myTeaFlag) {
+				return "twenty";
+			} else {
 				return "twenty";
 			}
 
 		case 3:
-			if(myTeaFlag)
-			{
-			return "Thirty";
-			}
-			else
-			{
+			if (myTeaFlag) {
+				return "Thirty";
+			} else {
 				return "three";
 			}
 		case 4:
-			if(myTeaFlag)
-			{
-			return "Fourty";
-			}
-			else
-			{
+			if (myTeaFlag) {
+				return "Fourty";
+			} else {
 				return "Four";
 			}
 		case 5:
-			if(myTeaFlag)
-			{
-			return "Fifty";
-			}
-			else
-			{
+			if (myTeaFlag) {
+				return "Fifty";
+			} else {
 				return "Five";
 			}
 		case 6:
@@ -120,20 +152,18 @@ public class DecimalCurrencyToStatement {
 		case 7:
 			return "Seven";
 		case 8:
-			if(myTeaFlag){
-			return "Eighty";}
-			else
-			{
+			if (myTeaFlag) {
+				return "Eighty";
+			} else {
 				return "Eight";
 			}
 
 		case 9:
-			if(myTeaFlag){
-				return "Ninety";}
-				else
-				{
-					return "Nine";
-				}
+			if (myTeaFlag) {
+				return "Ninety";
+			} else {
+				return "Nine";
+			}
 
 		default:
 			break;
@@ -144,7 +174,9 @@ public class DecimalCurrencyToStatement {
 
 	public static void main(String[] args) {
 		System.out.println("");
-		System.out.println(convertDecimalCurrencyToStatement(9023511));
+		System.out.println(numberToWord(552));
+		// System.out.println(convertDecimalCurrencyToStatement(9023511));
+
 	}
 
 }
