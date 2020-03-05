@@ -172,10 +172,46 @@ public class DecimalCurrencyToStatement {
 		return " ";
 	}
 
+	static String displayNumber() {
+		for (int i = 1; i <= 10; i++) {
+			switch (i) {
+			case 1:
+				return "One";
+
+			case 2:
+				return "Two";
+			case 3:
+				return "Three";
+			case 4:
+				return "Four";
+			case 5:
+				return "Five";
+
+			case 6:
+				return "Six";
+
+			case 7:
+				return "Seven";
+			case 8:
+				return "Eight";
+			case 9:
+				return "Nine";
+
+			default:
+				break;
+
+			}
+		}
+		return "";
+
+	}
+
 	public static void main(String[] args) {
 		System.out.println("");
-		System.out.println(numberToWord(552));
+
+		// System.out.println(numberToWord(552));
 		// System.out.println(convertDecimalCurrencyToStatement(9023511));
+		System.out.println(displayNumber());
 
 	}
 
